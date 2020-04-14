@@ -24,5 +24,5 @@ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
 The Localized robot
 
-<img src="https://github.com/PranaliDesai/Project_3/blob/master/Localized_robot" width="500">
+<img src="https://github.com/PranaliDesai/Project_3/blob/master/Localized_robot" width="800">
 
