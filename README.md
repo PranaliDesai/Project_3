@@ -22,3 +22,7 @@ Terminal 2
 source devel/setup.bash
 rosrun teleop_twist_keyboard teleop_twist_keyboard.py 
 ```
+The Localized robot
+
+<img src="https://github.com/PranaliDesai/Project_3/blob/master/Localized_robot" width="300">
+
